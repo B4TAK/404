@@ -23,7 +23,7 @@ echo $cy"[1]"$pu" INSTALL BAHAN AND NEXT TO SCRIPT"
 sleep 1
 echo $cy"[2]"$me" NO, BUT NEXT TO SCRIPT"
 sleep 1
-echo $cy"[3]"$i " EXIT"
+echo $cy"[3]"$i "EXIT"
 echo
 read -p "[SELECT NUMBER] : " pil;
 
