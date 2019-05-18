@@ -21,11 +21,11 @@ echo
 sleep 3
 echo $cy"[1]"$pu" INSTALL BAHAN AND NEXT TO SCRIPT"
 sleep 1
-echo $cy"[2]"$me"NO, BUT NEXT TO SCRIPT"
+echo $cy"[2]"$me" NO, BUT NEXT TO SCRIPT"
 sleep 1
-echo $cy"[3]"$i "EXIT"
+echo $cy"[3]"$i " EXIT"
 echo
-read -p "[SELECT NUMBER]" pil;
+read -p "[SELECT NUMBER] : " pil;
 
 if [ $$pil = 1 ]
 then
@@ -49,6 +49,8 @@ sh tapsel404
 fi
 
 if [ $pil = 2 ]
+then
+clear
 git clone https://github.com/LuciferXtools/TAPSEL404
 cd TAPSEL404
 sh tapsel404.sh
