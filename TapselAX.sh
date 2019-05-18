@@ -43,16 +43,14 @@ pkg install php
 pkg install ruby cowsay toilet figlet
 pkg install neofetch
 pkg install nano
-git clone https://github.com/TAPSEL-SECURITY/TAPSEL
-cd TAPSEL
-sh tapsel404.sh
+https://github.com/LuciferXtools/TAPSEL404
+cd TAPSEL404
+sh tapsel404
 fi
 
 if [ $pil = 2 ]
-then
-clear
-git clone https://github.com/TAPSEL-SECURITY/TAPSEL
-cd TAPSEL
+git clone https://github.com/LuciferXtools/TAPSEL404
+cd TAPSEL404
 sh tapsel404.sh
 fi
 
