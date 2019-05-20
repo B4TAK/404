@@ -35,6 +35,7 @@ pip2 install urllib3 chardet certifi idna requests
 pkg install git
 pip2 install mechanize
 pkg install curl
+pip2 install termcolor
 pkg install ruby
 pkg install gem
 gem install lolcat
@@ -42,10 +43,11 @@ pkg install git
 pkg install php
 pkg install ruby cowsay toilet figlet
 pkg install neofetch
+pkg install figle
 pkg install nano
-https://github.com/LuciferXtools/TAPSEL404
+git clone https://github.com/LuciferXtools/TAPSEL404
 cd TAPSEL404
-sh tapsel404
+sh FAK3R.sh
 fi
 
 if [ $pil = 2 ]
@@ -53,7 +55,7 @@ then
 clear
 git clone https://github.com/LuciferXtools/TAPSEL404
 cd TAPSEL404
-sh tapsel404.sh
+sh FAK3R.sh
 fi
 
 if [ $pil = 3 ]
