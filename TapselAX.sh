@@ -26,7 +26,9 @@ sleep 1
 echo $cy"[3]"$i "EXIT"
 echo
 sleep 1
-echo $cy"[H]" $i"How To Get Username & Password"
+echo $cy"["$i"H"$cy"]" $i"How To Get Username & Password"
+echo $cy"["$i"I"$cy"]" $i"INFO TOOLS"
+echo
 read -p "[SELECT NUMBER] : " pil;
 
 if [ $$pil = 1 ]
@@ -89,4 +91,16 @@ sleep 2
 echo $i"4. Like My video"
 sleep 2
 echo $i"5. Dan Kamu akan mendapat password"
+fi
+
+if [ $pil = I 
+then
+clear
+echo $i"CREATED : JHOSUA SAUT MARULI"
+sleep 1
+echo $i"TYPE    : TOOLS INSTALLER"
+sleep 1
+echo $i"UPDATE  : 23 MEI 2019"
+sleep 1
+echo $i"TOTAL   : 310 TOOLS"
 fi
