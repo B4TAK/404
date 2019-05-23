@@ -31,7 +31,7 @@ echo $cy"["$i"I"$cy"]" $i"INFO TOOLS"
 echo
 read -p "[SELECT NUMBER] : " pil;
 
-if [ $$pil = 1 ]
+if [ $pil = 1 ]
 then
 clear
 pkg install python2
