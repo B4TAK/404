@@ -12,9 +12,9 @@ echo
 clear
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 echo $cy"• TOOLS INSTALLER VIP"
-echo $cy"• PURCHASE THIS SCRIPT"
-echo $cy"• THANKS YOUR BUY THIS SCRIPT"
-echo $cy"• TOOLS 100"
+echo $cy"• UPDATE 23 MEI 2019"
+echo $cy"• NAME : TAPSEL 404"
+echo $cy"• TOOLS 310"
 echo $cy"• MR.F4K3"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 echo
@@ -25,6 +25,8 @@ echo $cy"[2]"$me" NO, BUT NEXT TO SCRIPT"
 sleep 1
 echo $cy"[3]"$i "EXIT"
 echo
+sleep 1
+echo $cy"[H]" $i"How To Get Username & Password"
 read -p "[SELECT NUMBER] : " pil;
 
 if [ $$pil = 1 ]
@@ -47,7 +49,7 @@ pkg install figle
 pkg install nano
 git clone https://github.com/LuciferXtools/TAPSEL404
 cd TAPSEL404
-sh FAK3R.sh
+sh TAPSEL404.sh
 fi
 
 if [ $pil = 2 ]
@@ -55,7 +57,7 @@ then
 clear
 git clone https://github.com/LuciferXtools/TAPSEL404
 cd TAPSEL404
-sh FAK3R.sh
+sh TAPSEL404.sh
 fi
 
 if [ $pil = 3 ]
@@ -71,4 +73,18 @@ echo "LADING..."
 sleep 1
 clear
 echo "SUKSES"
+fi
+
+if [ $pil = H ]
+then
+clear
+echo $i"1. PM WA : +371 21 440 576"
+sleep 2
+echo $i"2. SUBSCRIBE MY CHANNEL : MR.F4K3 YT"
+sleep 2
+echo $i"3. LINK CHANNEL : bit.ly/FakeYT"
+sleep 2
+echo $i"4. Like My video"
+sleep 2
+echo $i"5. Dan Kamu akan mendapat password"
 fi
