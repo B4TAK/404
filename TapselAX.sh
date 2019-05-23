@@ -32,7 +32,7 @@ read -p "[SELECT NUMBER] : " pil;
 if [ $$pil = 1 ]
 then
 clear
-apt install python2
+pkg install python2
 pip2 install urllib3 chardet certifi idna requests
 pkg install git
 pip2 install mechanize
@@ -41,11 +41,13 @@ pip2 install termcolor
 pkg install ruby
 pkg install gem
 gem install lolcat
-pkg install git
+pip2 install lolcat
+pkg install openssl
 pkg install php
+pkg install perl
 pkg install ruby cowsay toilet figlet
 pkg install neofetch
-pkg install figle
+pkg install figlet
 pkg install nano
 git clone https://github.com/LuciferXtools/TAPSEL404
 cd TAPSEL404
