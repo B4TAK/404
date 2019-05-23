@@ -93,7 +93,7 @@ sleep 2
 echo $i"5. Dan Kamu akan mendapat password"
 fi
 
-if [ $pil = I 
+if [ $pil = I ]
 then
 clear
 echo $i"CREATED : JHOSUA SAUT MARULI"
