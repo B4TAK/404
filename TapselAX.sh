@@ -10,12 +10,17 @@ ku='\033[33;1m' #kuning
 echo
 echo
 clear
+echo $i"TERIMAH KASIH TELAH MEMBELI TOOLS INI"
+echo $i"SEMOGA ANDA SENANG DENGAN TOOLS KAMI"
+sleep 3
+clear
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 echo $cy"• TOOLS INSTALLER VIP"
 echo $cy"• UPDATE 23 MEI 2019"
 echo $cy"• NAME : TAPSEL 404"
 echo $cy"• TOOLS 310"
 echo $cy"• MR.F4K3"
+echo $cy"• THANKS YOUR BUY"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 echo
 sleep 3
