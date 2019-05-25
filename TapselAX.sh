@@ -87,7 +87,7 @@ fi
 if [ $pil = H ]
 then
 clear
-echo $i"1. PM WA : +371 21 440 576"
+echo $i"1. PM WA : 081260032271"
 sleep 2
 echo $i"2. SUBSCRIBE MY CHANNEL : MR.F4K3 YT"
 sleep 2
