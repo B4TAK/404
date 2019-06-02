@@ -10,7 +10,7 @@ ku='\033[33;1m' #kuning
 echo
 echo
 clear
-echo $i"TERIMAH KASIH TELAH MEMBELI TOOLS INI"
+echo $i"TOOL INI TIDAK DI PUNGUT BIAYA!!!! "
 echo $i"SEMOGA ANDA SENANG DENGAN TOOLS KAMI"
 sleep 3
 clear
@@ -20,13 +20,13 @@ echo $cy"• UPDATE 23 MEI 2019"
 echo $cy"• NAME : TAPSEL 404"
 echo $cy"• TOOLS 310"
 echo $cy"• MR.F4K3"
-echo $cy"• THANKS YOUR BUY"
+echo $cy"• TOOLS INI GRATIS!!!"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 echo
 sleep 3
-echo $cy"[1]"$pu" INSTALL BAHAN AND NEXT TO SCRIPT"
+echo $cy"[1]"$pu" Install Bahan"
 sleep 1
-echo $cy"[2]"$me" NO, BUT NEXT TO SCRIPT"
+echo $cy"[2]"$me" Ti"
 sleep 1
 echo $cy"[3]"$i "EXIT"
 echo
