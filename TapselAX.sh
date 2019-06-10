@@ -26,7 +26,7 @@ echo
 sleep 3
 echo $cy"[1]"$pu" Install Bahan"
 sleep 1
-echo $cy"[2]"$me" Tidak"
+echo $cy"[2]"$me" Tidak, saya sudah install bahan"
 sleep 1
 echo $cy"[3]"$i "EXIT"
 echo
